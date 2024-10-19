@@ -31,4 +31,4 @@ def test_manejo_error_cadenas_no_numericas():
 if __name__ == "__main__":
     pytest.main()
 
-#lakslaks
+#lakslaksasdas
