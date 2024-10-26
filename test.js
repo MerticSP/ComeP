@@ -1,6 +1,6 @@
 const { suma } = require('./calculadora'); // Asegúrate de que la ruta sea correcta
 
-test('suma de enteros', () => {
+test('suma sssssde enteros', () => {
     expect(suma(2, 3)).toBe(5);
 });
 
