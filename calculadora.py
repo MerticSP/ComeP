@@ -4,4 +4,4 @@ def suma(a, b):
         b = float(b)
         return a + b
     except ValueError:
-        return "error23hola"
+        return "error"
